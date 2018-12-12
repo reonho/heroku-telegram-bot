@@ -14,15 +14,25 @@ token = os.environ['TELEGRAM_TOKEN']
 # If you use redis, install this add-on https://elements.heroku.com/addons/heroku-redis
 r = redis.from_url(os.environ.get("REDIS_URL"))
 #       Your bot code below
+
 bot = telebot.TeleBot(token)
 # some_api = some_api_lib.connect(some_api_token)
 #              ...
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-	bot.reply_to(message, "Howdy, how are you doing?")
+    bot.reply_to(message, "Hi, I speak gIbBeRiSh")
 
 @bot.message_handler(func=lambda m: True)
 def echo_all(message):
-	bot.reply_to(message, message.text)
+    print(message.text)
+    text = ""
+    for char in message.text.lower():
+        if len(text):
+            if text[-1].isalpha():
+                if text[-1].islower():
+                    text += char.upper()
+                    continue
+        text += char
+    bot.send_message(message.chat.id, text)
 
 bot.polling()
