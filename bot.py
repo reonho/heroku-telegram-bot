@@ -22,7 +22,7 @@ bot = telebot.TeleBot(token)
 #              ...
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-    bot.reply_to(message, "Hi, which station would you like to know the last train time for? (Give me a code or a station name)")
+    bot.reply_to(message, "Hi, which station would you like to know the last train time for? (Give me a station name)")
 
 @bot.message_handler(func=lambda m: True)
 def respond_all(message):
@@ -31,6 +31,6 @@ def respond_all(message):
     if text:
         bot.send_message(message.chat.id, text)
     else:
-        bot.send_message(message.chat.id, "Sorry, I don't understand. Just tell me the station code or the station name!")
+        bot.send_message(message.chat.id, "Sorry, I don't understand. Give me a station name!")
 
 bot.polling()

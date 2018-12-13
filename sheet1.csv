@@ -62,3 +62,139 @@ Clarke Quay (NE5),,,12:27 AM,12:36 AM,Eve PH,HarbourFront (NE1),Punggol (NE17)
 Chinatown (NE4),,,12:29 AM,12:34 AM,Eve PH,HarbourFront (NE1),Punggol (NE17)
 Outram Park (NE3),,,12:30 AM,12:32 AM,Eve PH,HarbourFront (NE1),Punggol (NE17)
 HarbourFront (NE1),,,-,12:29 AM,Eve PH,HarbourFront (NE1),Punggol (NE17)
+DT1 Bukit Panjang,5:30,-,23:35,-,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT2 Cashew,5:32,6:13,23:37,0:45,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT3 Hillview,5:34,6:12,23:38,0:44,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT5 Beauty World,5:37,6:08,23:42,0:40,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT6 King Albert Park,5:39,6:06,23:44,0:38,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT7 Sixth Avenue,5:42,6:04,23:46,0:36,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT8 Tan Kah Kee,5:44,6:02,23:48,0:34,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT9 Botanic Gardens,5:46,6:00,23:50,0:32,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT10 Stevens,5:48,5:58,23:52,0:30,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT11 Newton,5:51,5:56,23:54,0:28,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT12 Little India,5:53,6:06,23:57,0:26,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT13 Rochor,5:55,6:05,23:58,0:24,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT14 Bugis,5:57,6:03,0:00,0:22,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT15 Promenade,6:00,6:17,0:02,0:20,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT16 Bayfront,6:02,6:15,0:04,0:18,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT17 Downtown,6:04,6:13,0:06,0:16,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT18 Telok Ayer,6:06,6:11,0:07,0:15,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT19 Chinatown,6:08,6:10,0:09,0:14,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT20 Fort Canning,6:10,6:08,0:11,0:11,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT21 Bencoolen,6:12,6:06,0:12,0:10,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT22 Jalan Besar,6:13,6:04,0:14,0:08,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT23 Bendemeer,6:15,6:02,0:16,0:06,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT24 Geylang Bahru,5:59,6:00,0:18,0:04,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT25 Mattar,6:01,5:58,0:21,0:02,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT26 MacPherson,6:03,5:56,0:23,0:00,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT27 Ubi,6:05,5:54,0:24,23:58,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT28 Kaki Bukit,6:07,5:52,0:26,23:56,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT29 Bedok North,6:09,5:50,0:28,23:54,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT30 Bedok Reservoir,6:11,5:48,0:30,23:51,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT31 Tampines West,6:13,5:45,0:33,23:49,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT32 Tampines,6:16,5:43,0:35,23:47,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT33 Tampines East,6:18,5:41,0:37,23:45,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT34 Upper Changi,6:21,5:38,0:40,23:41,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT35 Expo,-,5:36,-,23:40,Weekdays,DT35 Expo,DT1 Bukit Panjang
+DT1 Bukit Panjang,5:30,-,23:35,-,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT2 Cashew,5:32,6:13,23:37,0:45,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT3 Hillview,5:34,6:12,23:38,0:44,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT5 Beauty World,5:37,6:08,23:42,0:40,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT6 King Albert Park,5:39,6:06,23:44,0:38,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT7 Sixth Avenue,5:42,6:04,23:46,0:36,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT8 Tan Kah Kee,5:44,6:02,23:48,0:34,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT9 Botanic Gardens,5:46,6:00,23:50,0:32,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT10 Stevens,5:48,5:58,23:52,0:30,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT11 Newton,5:51,5:56,23:54,0:28,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT12 Little India,5:53,6:06,23:57,0:26,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT13 Rochor,5:55,6:05,23:58,0:24,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT14 Bugis,5:57,6:03,0:00,0:22,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT15 Promenade,6:00,6:17,0:02,0:20,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT16 Bayfront,6:02,6:15,0:04,0:18,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT17 Downtown,6:04,6:13,0:06,0:16,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT18 Telok Ayer,6:06,6:11,0:07,0:15,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT19 Chinatown,6:08,6:10,0:09,0:14,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT20 Fort Canning,6:10,6:08,0:11,0:11,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT21 Bencoolen,6:12,6:06,0:12,0:10,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT22 Jalan Besar,6:13,6:04,0:14,0:08,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT23 Bendemeer,6:15,6:02,0:16,0:06,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT24 Geylang Bahru,5:59,6:00,0:18,0:04,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT25 Mattar,6:01,5:58,0:21,0:02,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT26 MacPherson,6:03,5:56,0:23,0:00,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT27 Ubi,6:05,5:54,0:24,23:58,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT28 Kaki Bukit,6:07,5:52,0:26,23:56,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT29 Bedok North,6:09,5:50,0:28,23:54,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT30 Bedok Reservoir,6:11,5:48,0:30,23:51,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT31 Tampines West,6:13,5:45,0:33,23:49,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT32 Tampines,6:16,5:43,0:35,23:47,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT33 Tampines East,6:18,5:41,0:37,23:45,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT34 Upper Changi,6:21,5:38,0:40,23:41,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT35 Expo,-,5:36,-,23:40,Saturday,DT35 Expo,DT1 Bukit Panjang
+DT1 Bukit Panjang,5:50,-,23:35,-,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT2 Cashew,5:52,6:34,23:37,0:45,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT3 Hillview,5:54,6:32,23:38,0:44,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT5 Beauty World,5:57,6:29,23:42,0:40,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT6 King Albert Park,5:59,6:27,23:44,0:38,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT7 Sixth Avenue,6:02,6:24,23:46,0:36,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT8 Tan Kah Kee,6:04,6:22,23:48,0:34,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT9 Botanic Gardens,6:06,6:21,23:50,0:32,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT10 Stevens,6:08,6:18,23:52,0:30,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT11 Newton,6:11,6:16,23:54,0:28,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT12 Little India,6:13,6:30,23:57,0:26,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT13 Rochor,6:15,6:33,23:58,0:24,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT14 Bugis,6:17,6:32,0:00,0:22,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT15 Promenade,6:20,6:35,0:02,0:20,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT16 Bayfront,6:22,6:33,0:04,0:18,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT17 Downtown,6:24,6:31,0:06,0:16,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT18 Telok Ayer,6:26,6:29,0:07,0:15,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT19 Chinatown,6:28,6:28,0:09,0:14,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT20 Fort Canning,6:30,6:26,0:11,0:11,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT21 Bencoolen,6:31,6:24,0:12,0:10,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT22 Jalan Besar,6:33,6:22,0:14,0:08,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT23 Bendemeer,6:35,6:20,0:16,0:06,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT24 Geylang Bahru,6:19,6:18,0:18,0:04,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT25 Mattar,6:21,6:16,0:21,0:02,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT26 MacPherson,6:23,6:14,0:23,0:00,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT27 Ubi,6:25,6:12,0:24,23:58,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT28 Kaki Bukit,6:27,6:10,0:26,23:56,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT29 Bedok North,6:29,6:08,0:28,23:54,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT30 Bedok Reservoir,6:31,6:06,0:30,23:51,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT31 Tampines West,6:33,6:03,0:33,23:49,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT32 Tampines,6:36,6:01,0:35,23:47,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT33 Tampines East,6:38,5:59,0:37,23:45,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT34 Upper Changi,6:41,5:56,0:40,23:41,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT35 Expo,-,5:54,-,23:40,Sunday,DT35 Expo,DT1 Bukit Panjang
+DT1 Bukit Panjang,5:50,-,23:35,-,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT2 Cashew,5:52,6:34,23:37,0:45,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT3 Hillview,5:54,6:32,23:38,0:44,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT5 Beauty World,5:57,6:29,23:42,0:40,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT6 King Albert Park,5:59,6:27,23:44,0:38,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT7 Sixth Avenue,6:02,6:24,23:46,0:36,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT8 Tan Kah Kee,6:04,6:22,23:48,0:34,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT9 Botanic Gardens,6:06,6:21,23:50,0:32,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT10 Stevens,6:08,6:18,23:52,0:30,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT11 Newton,6:11,6:16,23:54,0:28,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT12 Little India,6:13,6:30,23:57,0:26,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT13 Rochor,6:15,6:33,23:58,0:24,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT14 Bugis,6:17,6:32,0:00,0:22,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT15 Promenade,6:20,6:35,0:02,0:20,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT16 Bayfront,6:22,6:33,0:04,0:18,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT17 Downtown,6:24,6:31,0:06,0:16,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT18 Telok Ayer,6:26,6:29,0:07,0:15,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT19 Chinatown,6:28,6:28,0:09,0:14,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT20 Fort Canning,6:30,6:26,0:11,0:11,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT21 Bencoolen,6:31,6:24,0:12,0:10,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT22 Jalan Besar,6:33,6:22,0:14,0:08,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT23 Bendemeer,6:35,6:20,0:16,0:06,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT24 Geylang Bahru,6:19,6:18,0:18,0:04,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT25 Mattar,6:21,6:16,0:21,0:02,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT26 MacPherson,6:23,6:14,0:23,0:00,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT27 Ubi,6:25,6:12,0:24,23:58,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT28 Kaki Bukit,6:27,6:10,0:26,23:56,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT29 Bedok North,6:29,6:08,0:28,23:54,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT30 Bedok Reservoir,6:31,6:06,0:30,23:51,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT31 Tampines West,6:33,6:03,0:33,23:49,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT32 Tampines,6:36,6:01,0:35,23:47,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT33 Tampines East,6:38,5:59,0:37,23:45,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT34 Upper Changi,6:41,5:56,0:40,23:41,Eve PH,DT35 Expo,DT1 Bukit Panjang
+DT35 Expo,-,5:54,-,23:40,Eve PH,DT35 Expo,DT1 Bukit Panjang

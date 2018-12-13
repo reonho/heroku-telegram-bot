@@ -12,7 +12,9 @@ class sheethandler:
         self.data = data
 
     def time(self, station):
-        text = None 
+        if len(station) < 3:
+            return ""
+        text = ""
         weekno = datetime.datetime.today().weekday()
         if weekno == 6:
             filt = "Sunday"
@@ -20,12 +22,22 @@ class sheethandler:
             filt = "Saturday"
         else:
             filt = "Weekdays"
+        res = {}
         for row in self.data:
             stat,first1, first2, last1, last2, day, dir1, dir2 = row
             if day != filt:
                 continue
-            if station.lower() in stat.lower():
-                text = stat + " : " + "\n" + "Towards " + dir1 + " - " + last1 + "\n" + "Towards " + dir2 + " - " + last2
+            elif station.lower() in stat.lower():
+                if stat not in res:
+                    res[stat] = "Towards " + dir1 + " - " + last1 + "\n" + "Towards " + dir2 + " - " + last2 + "\n"
+                else:
+                    res[stat] += "Towards " + dir1 + " - " + last1 + "\n" + "Towards " + dir2 + " - " + last2 + "\n"
+        for pair in res.items():
+            text += "\n" + pair[0] + " : \n" + pair[1]
+        if text:
+            return filt + "\n" +  text
+        else:
+            return text 
 
-        return text
-
+s1 = sheethandler()
+print(s1.time("little india"))
