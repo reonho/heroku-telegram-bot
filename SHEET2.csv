@@ -1,0 +1,456 @@
+﻿station,days,return,code ,,
+Admiralty,,"Jurong East: 0033
+Kranji: 0049
+Marina South Pier: 2316
+Marina Bay: 2318
+Toa Payoh: 2353
+Ang Mo Kio: 0042",NS10,,
+Aljunied,,"Pasir Ris: 0020
+Tuas Link: 2343",EW9,,
+Ang Mo Kio,,"Jurong East: 0015
+Kranji: 0032
+Marina South Pier: 2334
+Marina Bay: 2336
+Toa Payoh: 0011",NS16,,
+Bakau,,"Ranggung to Compassvale: 0026
+Compassvale to Ranggung: 0042",SE3,,
+Bangkit,,"Petir to Senja: 0111
+Senja to Petir: 0059",BP9,,
+Bartley,,"Dhoby Ghaut: 2342
+Mountbatten: 0019
+HarbourFront: 2310
+Pasir Panjang: 2341
+one-north: 2357
+Caldecott: 0024",CC12,,
+Bayfront,,"__CC__
+Stadium: 2357
+Marina Bay: 2351
+
+__DT__
+Bukit Panjang: 0015
+Expo: 0007",CE1,DT16,
+Beauty World,,"Bukit Panjang: 0040
+Expo: 2342",DT5,,
+Bedok,,"Pasir Ris: 0029
+Tuas Link: 2334",EW5,,
+Bedok North,,"Bukit Panjang: 2354
+Expo: 0028",DT29,,
+Bedok Reservoir,,"Bukit Panjang: 2351
+Expo: 0030",DT30,,
+Bencoolen,,"Bukit Panjang: 0010
+Expo: 0012",DT21,,
+Bendemeer,,"Bukit Panjang: 0006
+Expo: 0016",DT23,,
+Bishan,,"__NS__
+Jurong East: 0012
+Kranji: 0028
+Marina South Pier: 2337
+Marina Bay: 2339
+Toa Payoh: 0015
+
+__CC__
+Dhoby Ghaut: 2335
+Mountbatten: 0012
+Bartley: 0036
+HarbourFront: 2318
+Pasir Panjang: 2348
+one-north: 0004
+Caldecott: 0032",NS17,CC15,
+Boon Keng,,"HarbourFront: 2346
+Punggol: 0010",NE9,,
+Boon Lay,,"Pasir Ris: 2338
+Tuas Link: 0032",EW27,,
+Botanic Gardens,,"__CC__
+Dhoby Ghaut: 2325
+Mountbatten: 0002
+Bartley: 0026
+HarbourFront: 2327
+Pasir Panjang: 2357
+one-north: 0013
+
+__DT__
+Bukit Panjang: 0031
+Expo: 2351",CC19,DT9,
+Braddell,,"Jurong East: 0009
+Kranji: 0026
+Marina South Pier: 2339
+Marina Bay: 2341
+Toa Payoh: 0017",NS18,,
+Bras Basah,,"Dhoby Ghaut: 0003
+HarbourFront: 2250
+Pasir Panjang: 2320
+one-north: 2336
+Caldecott: 0003
+Tai Seng: 0011",CC2,,
+Buangkok,,"HarbourFront: 2332
+Punggol: 0024",NE15,,
+Bugis,,"__EW__
+Pasir Ris: 0014
+Tuas Link: 2349
+
+__DT__
+Bukit Panjang: 0020
+Expo: 0003",EW12,DT14,
+Bukit Batok,,"Jurong East: 0055
+Marina South Pier: 2250
+Marina Bay: 2256
+Toa Payoh: 2331
+Ang Mo Kio: 0020",NS2,,
+Bukit Gombak,,"Jurong East: 0052
+Marina South Pier: 2252
+Marina Bay: 2258
+Toa Payoh: 2333
+Ang Mo Kio: 0022",NS3,,
+Bukit Panjang,,"__DT__
+Expo: 2335
+
+__BP__
+Petir to Senja: 0102
+Senja to Petir: 0047",DT1,BP6,
+Buona Vista,,"__EW__
+Pasir Ris: 2353
+Tuas Link: 0015
+
+__CC__
+Dhoby Ghaut: 2319
+Mountbatten: 2356
+Bartley: 0019
+HarbourFront: 2334
+Pasir Panjang: 0004
+one-north: 0020",EW21,CC22,
+Caldecott,,"Dhoby Ghaut: 2330
+Mountbatten: 0007
+Bartley: 0030
+HarbourFront: 2323
+Pasir Panjang: 2353
+one-north: 0009",CC17,,
+Cashew,,"Bukit Panjang: 0046
+Expo: 2337",DT2,,
+Changi Airport,,"Joo Koon: 2318
+Pasir Ris: 0006",CG2,,
+Cheng Lim,,"Cheng Lim to Renjong: 0016
+Renjong to Cheng Lim: 0100",SW1,,
+Chinatown,,"__NE__
+HarbourFront: 2356
+Punggol: 0000
+
+__DT__
+Bukit Panjang: 0014
+Expo: 0009",NE4,DT19,
+Chinese Garden,,"Pasir Ris: 2342
+Tuas Link: 0027",EW25,,
+Choa Chu Kang,,"__NS__
+Jurong East: 0049
+Marina South Pier: 2255
+Marina Bay: 2301
+Toa Payoh: 2337
+Ang Mo Kio: 0026
+
+__BP__
+Senja to Petir: 0055
+Petir to Senja: 0055",NS4,BP1,CCK
+City Hall,,"__NS__
+Jurong East: 2355
+Kranji: 0011
+Marina South Pier: 2352
+Marina Bay: 2356
+
+__EW__
+Pasir Ris: 0011
+Tuas Link: 2352",NS25,EW13,
+Clarke Quay,,"HarbourFront: 2354
+Punggol: 0002",NE5,CQ,
+Clementi,,"Pasir Ris: 2349
+Tuas Link: 0020",EW23,,
+Commonwealth,,"Pasir Ris: 2355
+Tuas Link: 0013",EW20,,
+Compassvale,,"Compassvale to Ranggung: 0023
+Ranggung to Compassvale: 0048",SE1,,
+Coral Edge,,"Damai to Cove: 0028
+Cove to Damai: 0045",PE3,,
+Cove,,"Cove to Damai: 0040
+Damai to Cove: 0030",PE1,,
+Dakota,,"Dhoby Ghaut: 2351
+Mountbatten: 0028
+HarbourFront: 2301
+Pasir Panjang: 2332
+one-north: 2348
+Caldecott: 0015
+Tai Seng: 0023",CC8,,
+Damai,,"Damai to Cove: 0022
+Cove to Damai: 0055",PE7,,
+Dhoby Gaut,,"__NSL__
+Jurong East: 2357
+Kranji: 0013
+Marina South Pier: 2350
+Marina Bay: 2354
+
+__NEL__
+HarbourFront: 2352
+Punggol: 0004
+
+__CC__
+HarbourFront: 2248
+Pasir Panjang: 2318
+one-north: 2334
+Caldecott: 0002
+Tai Seng: 0010",NS24,NE6,CC1
+Dover,,"Pasir Ris: 2351
+Tuas Link: 0017",EW22,,
+Downtown,,"Bukit Panjang: 0013
+Expo: 0009",DT17,,
+Esplanade,,"Dhoby Ghaut: 0001
+HarbourFront: 2251
+Pasir Panjang: 2322
+one-north: 2338
+Caldecott: 0005
+Tai Seng: 0013",CC3,,
+Eunos,,"Pasir Ris: 0024
+Tuas Link: 2339",EW7,,
+Expo,,"__EW__
+Joo Koon: 2323
+Pasir Ris: 0011
+Changi Airport: 2354
+
+__DT__
+Bukit Panjang: 2340",CG1,DT35,
+Fajar,,"Senja to Petir: 0109
+Petir to Senja: 0101",BP10,,
+Farmway,,"Cheng Lim to Renjong: 0017
+Renjong to Cheng Lim: 0059",SW2,,
+Farrer Park,,"HarbourFront: 2348
+Punggol: 0008",NE8,,
+Farrer Road,,"Dhoby Ghaut: 2323
+Mountbatten: 0000
+Bartley: 0024
+HarbourFront: 2329
+Pasir Panjang: 2359
+one-north: 0015",CC20,,
+Fernvale,,"Cheng Lim to Renjong: 0021
+Renjong to Cheng Lim: 0049",SW5,,
+Fort Canning,,"Bukit Panjang: 0011
+Expo: 0011",DT20,,
+Geylang Bahru,,"Bukit Panjang: 0004
+Expo: 0018",DT24,,
+Gul Circle,,"Pasir Ris: 2327
+Tuas Link: 0041",EW30,,
+Harbourfront,,"__NE__
+Punggol: 2355
+
+__CC__
+Dhoby Ghaut: 2303
+Mountbatten: 2340
+Bartley: 0004",NE1,CC29,
+Haw Par Villa,,"Dhoby GhauT: 2312
+Mountbatten: 2349
+Bartley: 0013
+HarbourFront: 2340
+Pasir Panjang: 0010",CC25,,
+Hillview,,"Bukit Panjang: 0044
+Expo: 2339",DT3,,
+Holland Village,,"Dhoby Ghaut: 2321
+Mountbatten: 2358
+Bartley: 0021
+HarbourFront: 2331
+Pasir Panjang: 0002
+one-north: 0018",CC21,,
+Hougang,,"HarbourFront: 2334
+Punggol: 0022",NE14,,
+Jalan Besar,,"Bukit Panjang: 0008
+Expo: 0014",DT22,,
+Jelapang,,"Senja to Petir: 0105
+Petir to Senja: 0105",BP12,,
+Joo Koon,,"Pasir Ris: 2332
+Tuas Link: 0038",EW29,,
+Jurong East,,"__NS__
+Marina South Pier: 2246
+Marina Bay: 2253
+Toa Payoh: 2328
+Ang Mo Kio: 0017
+
+__EW__
+Pasir Ris: 2345
+Tuas Link: 0025",EW24 ,,NS1
+Kadaloor,,"Damai to Cove: 0025
+Cove to Damai: 0051",PE5,,
+Kaki Bukit,,"Bukit Panjang: 2356
+Expo: 0026",DT28,,
+Kallang,,"Pasir Ris: 0018
+Tuas Link: 2345",EW10,,
+Kangkar,,"Compassvale to Ranggung: 0027
+Ranggung to Compassvale: 0040",SE4,,
+Keat Hong,,"Petir to Senja: 0051
+Senja to Petir: 0058",BP3,,
+Kembangan,,"Pasir Ris: 0026
+Tuas Link: 2337",EW6,,
+Kent Ridge,,"Dhoby Ghaut: 2315
+Mountbatten	: 2352
+Bartley: 0015
+HarbourFront: 2337
+Pasir Panjang	: 0008",CC24,,
+Khatib,,"Jurong East: 0023
+Kranj: 0039
+Marina South Pier: 2325
+Marina Bay: 2328
+Toa Payoh: 0003
+Ang Mo Kio: 0053",NS14,,
+King Albert Park,,"Bukit Panjang	: 0038
+Expo: 2344",KAP,,DT6
+Kovan,,"HarbourFront: 2337
+Punggol: 0019",NE13,,
+Kranji,,"Jurong East: 0041
+Marina South Pier: 2306
+Marina Bay: 2309
+Toa Payoh: 2345
+Ang Mo Kio: 0034",NS7,,
+Kupang,,"Cheng Lim to Renjong: 0018
+Renjong to Cheng Lim: 0057",SW3,,
+Labrador Park,,"Dhoby Ghaut: 2308
+Mountbatten: 2345
+Bartley: 0008
+HarbourFront: 2344",CC27,,
+Lakeside,,"Pasir Ris: 2340
+Tuas Link: 0029",EW26,,
+Layar,,"Cheng Lim to Renjong: 0023
+Renjong to Cheng Lim: 0046",SW6,,
+Little India,,"__ NE__
+HarbourFront: 2350
+Punggol: 0006
+
+__DT__
+Bukit Panjang	: 0024
+Expo: 2359",NE7,,DT12
+Lorong Chuan,,"Dhoby GhauT: 2338
+Mountbatten: 0014
+Bartley: 0038
+HarbourFront: 2315
+Pasir Panjang: 2345
+one-north: 0001
+Caldecott: 0029",CC14,,
+MacPherson,,"__CC__
+Dhoby Ghaut: 2346
+Mountbatten: 0023
+HarbourFront: 2306
+Pasir Panjang	: 2336
+one-north: 2352
+Caldecott: 0020
+Tai Seng: 0028
+__DT__
+Bukit Panjang	: 0000
+Expo: 0023",CC10,,DT26
+Marymount Centre,,"Dhoby Ghaut	0537	0537	0604	2332
+Mountbatten	: 0009
+Bartley: 0033
+HarbourFront: 2320
+Pasir Panjang: 2350
+one-north: 0006
+Caldecott: 0034",CC16,,
+Mattar,,"Bukit Panjang: 0002
+Expo: 0021",DT25,,
+Meridian,,"Cove to Damai: 0043
+Damai to Cove: 0029",PE2,,
+Newton,,"__NS__
+Jurong East: 0003
+Kranji	: 0020
+Marina South Pier: 2345
+Marina Bay: 2348
+__DT__
+Bukit Panjang	: 0027
+Expo: 2356",NS21,DT11,
+Nibong,,Sam Kee: 0043,PW5,,
+Nicoll Highway,,"Dhoby Ghaut: 2357
+HarbourFront: 2256
+Stadium: 0001
+Pasir Panjang: 2326
+one-north: 2342
+Caldecott: 0010
+Tai Seng: 0017
+Marina Bay: 2346",CC5,,
+Novena,,"Jurong East: 0005
+Kranji: 0022
+Marina South Pier: 2343
+Marina Bay: 2346",NS20,,
+Oasis,,"Damai to Cove: 0023
+Cove to Damai: 0053",PE6,,
+one-north,,"Dhoby Ghaut: 2317
+Mountbatten: 2354
+Bartley: 0017
+HarbourFront: 2335
+Pasir Panjang: 0006",CC23,,
+Orchard ,,"Jurong East: 0000
+Kranji: 0017
+Marina South Pier: 2347
+Marina Bay: 2350",NS22,,
+,,"__EW__
+Pasir Ris: 0004
+Tuas Link: 0004
+
+__NE__
+HarbourFront: 2358
+Punggol: 2358",EW16,NE3,
+Pasir Panjang,,"Dhoby Ghaut: 2310
+Mountbatten: 2347
+Bartley: 0011
+HarbourFront: 2342",CC26,,
+Pasir Ris,,Tuas Link: 2323,EW1,,
+Paya Lebar,,"__EW__
+Pasir Ris: 0022
+Tuas Link: 2341
+
+__CC__
+Dhoby Ghaut: 2349
+Mountbatten: 0026
+HarbourFront: 2304
+Pasir Panjang: 2334
+one-north: 2350
+Caldecott: 0018
+Tai Seng: 0026",EW8,CC9,
+Pending,,"Senja to Petir: 0112
+Petir to Senja: 0058",BP8,,
+Petir,,"Petir to Senja: 0056
+Senja to Petir: 0114",BP7,,
+Phoenix,,"Petir to Senja: 0049
+Senja to Petir: 0100",BP5,,
+Pioneer,,"Pasir Ris: 2336
+Tuas Link: 0034",EW28,,
+Potong Pasir,,"HarbourFront: 2343
+Punggol: 0012",NE10,,
+Promenade,,"__CC_
+Dhoby Ghaut: 2359
+HarbourFront: 2254
+Stadium: 2359
+Pasir Panjang: 2324
+one-north: 2340
+Caldecott: 0008
+Tai Seng: 0015
+Marina Bay: 2348
+
+__DT__
+Bukit Panjang: 0018
+Expo: 0005",CC4,DT15,
+Punggol,,"___NE__
+HarbourFront: 2328
+
+__PE/PW__
+Damai to Cove: 0020
+Cove to Damai: 0038",PTC,NE17,
+Punggol Point,,connect to Sam Kee: 0048,PW3,,
+Queenstown,,"Pasir Ris: 2357
+Tuas Link: 0011",EW19,,
+Raffles Place,,"__NS__
+Jurong East: 2353
+Kranji: 0009
+Marina South Pier: 2354
+Marina Bay: 2358
+
+__EW__
+Pasir Ris: 0009
+Tuas Link: 2358",NS26,EW14,
+Ranggung,,"Ranggung to Compassvale: 0037
+Compassvale to Ranggung: 0030",SE5,,
+Redhill,,"Pasir Ris: 2359
+Tuas Link: 0008",EW18,,
+Renjong,,"Cheng Lim to Renjong: 0026
+Renjong to Cheng Lim: 0042",SW8,,
+Riveria,,"Damai to Cove:	0026
+Cove to Damai: 0048",PE4,,
